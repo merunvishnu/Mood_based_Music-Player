@@ -2,5 +2,5 @@ streamlit
 deepface
 spotipy
 python-dotenv
-opencv-python
+opencv-python-headless
 pillow
