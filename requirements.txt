@@ -1,4 +1,6 @@
-opencv-python
+streamlit
 deepface
 spotipy
 python-dotenv
+opencv-python
+pillow
